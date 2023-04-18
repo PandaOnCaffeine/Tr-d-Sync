@@ -1,0 +1,8 @@
+E:\Local\Desktop\ZBC\H1\Programming\Tråd Sync Øvelse 2-3\Tråd Sync Øvelse 2-3\bin\Debug\Tråd Sync Øvelse 2-3.exe.config
+E:\Local\Desktop\ZBC\H1\Programming\Tråd Sync Øvelse 2-3\Tråd Sync Øvelse 2-3\bin\Debug\Tråd Sync Øvelse 2-3.exe
+E:\Local\Desktop\ZBC\H1\Programming\Tråd Sync Øvelse 2-3\Tråd Sync Øvelse 2-3\bin\Debug\Tråd Sync Øvelse 2-3.pdb
+E:\Local\Desktop\ZBC\H1\Programming\Tråd Sync Øvelse 2-3\Tråd Sync Øvelse 2-3\obj\Debug\Tråd Sync Øvelse 2-3.csproj.AssemblyReference.cache
+E:\Local\Desktop\ZBC\H1\Programming\Tråd Sync Øvelse 2-3\Tråd Sync Øvelse 2-3\obj\Debug\Tråd Sync Øvelse 2-3.csproj.SuggestedBindingRedirects.cache
+E:\Local\Desktop\ZBC\H1\Programming\Tråd Sync Øvelse 2-3\Tråd Sync Øvelse 2-3\obj\Debug\Tråd Sync Øvelse 2-3.csproj.CoreCompileInputs.cache
+E:\Local\Desktop\ZBC\H1\Programming\Tråd Sync Øvelse 2-3\Tråd Sync Øvelse 2-3\obj\Debug\Tråd Sync Øvelse 2-3.exe
+E:\Local\Desktop\ZBC\H1\Programming\Tråd Sync Øvelse 2-3\Tråd Sync Øvelse 2-3\obj\Debug\Tråd Sync Øvelse 2-3.pdb
