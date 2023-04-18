@@ -16,29 +16,29 @@ namespace Tråd_Sync_Øvelse_1
         {
             for (int i = 0; i < 10; i++)
             {
-                Thread t1 = new Thread(AddOne);
+                Thread t1 = new Thread(Add);
                 t1.Start();
                 Console.WriteLine($"Shared resorce: {_fællesFil} |called addone");
 
-                Thread t2 = new Thread(MinusOne);
+                Thread t2 = new Thread(Minus);
                 t2.Start();
                 Console.WriteLine($"Shared resorce: {_fællesFil} |called minusone");
             }
             Console.ReadLine();
         }
-        static void AddOne()
+        static void Add()
         {
             Monitor.Enter(_lock);
             try
             {
-                _fællesFil++;
+                _fællesFil+=2;
             }
             finally
             {
                 Monitor.Exit(_lock);
             }                        
         }
-        static void MinusOne()
+        static void Minus()
         {
             Monitor.Enter(_lock);
             
